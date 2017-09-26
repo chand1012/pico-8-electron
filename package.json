@@ -1,0 +1,6 @@
+{
+  "name"    : "pico8_game",
+  "version" : "0.0.1",
+  "main"    : "main.js",
+  "electronVersion": "1.7.6"
+}
