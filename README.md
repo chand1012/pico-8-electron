@@ -1,2 +1,2 @@
-# pico-8-electron
-Example code to port a pico-8 game to Electron
+# Pico-8 Electron Impementaion
+This repo is a simple example for porting your game into electron. To put your game in an electron, just install electron via npm and download this repo, then run with `electron .`. This will run your game in electron! Code included is an exported to Javascript version of mhughson's [Advanced Micro PLatformer - Starter Kit](https://www.lexaloffle.com/bbs/?tid=28793).
